@@ -162,6 +162,10 @@ div.navbar-nav {
   float: right;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: whitesmoke;
+}
+
 #logo {
   height: 26px;
 }
