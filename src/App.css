@@ -614,6 +614,7 @@ font-weight: bolder;
   /*footer */
 
   #footer {
+    height: 12vh;
     background-color: #FFF500;
     justify-content: center;
     margin: auto;
