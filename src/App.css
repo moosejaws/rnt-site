@@ -137,7 +137,7 @@ padding: 20px;
 
   #email-me {
     font-family: poppins;
-    float: right;
+    float: left;
     width: 160px;
     background-color: #FFF500;
     border: none;
@@ -515,8 +515,9 @@ font-weight: bolder;
 
   #contactinfo {
     display: flex;
-    line-height: 20px;
+    line-height: 22px;
     margin: 10px;
+
 
 
   }
@@ -533,6 +534,7 @@ font-weight: bolder;
   svg {
     margin-right: 20px;
     margin-top: .2rem;
+    height: 20px;
   }
 
 
@@ -544,7 +546,7 @@ font-weight: bolder;
   }
 
   .contact-container h5 {
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     vertical-align: baseline;
   }
@@ -586,6 +588,9 @@ font-weight: bolder;
     #contactitem2 {
       justify-content: center;
       margin: auto;
+    }
+    svg {
+      height: 24px;
     }
   }
 
