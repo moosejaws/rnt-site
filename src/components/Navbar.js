@@ -1,8 +1,6 @@
 
 import React from "react"
-import { Link } from "react-router-dom"
-import Scroll from 'react-scroll'
-const ScrollLink = Scroll.ScrollLink
+
 
 export default function Navbar() {
 
