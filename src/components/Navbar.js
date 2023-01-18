@@ -18,7 +18,7 @@ export default function Navbar() {
                 <div class="navbar-nav ml-auto">
     
 
-                <a class="nav-item nav-link active" href="#home">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#home">Home <span class="sr-only">Home</span></a>
 
                 <a class="nav-item nav-link" href="#about" activeClass="active" smooth spy to="about">About</a>
                 <a class="nav-item nav-link" href="#services">Services</a>

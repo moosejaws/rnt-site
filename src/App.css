@@ -324,6 +324,7 @@ margin-top: 40px;
 
 
 #services p {
+  
   width: 96%;
   text-align: center;
   margin: auto;
@@ -363,7 +364,7 @@ font-weight: bolder;
 }
 
 #services h3 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: lighter;
   width: 80%;
   justify-content: center;
