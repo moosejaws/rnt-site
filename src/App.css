@@ -524,7 +524,7 @@ font-weight: bolder;
     display: flex;
     line-height: 22px;
     margin: 10px;
-    margin-left: 1rem;
+    margin-left: 1.6rem;
 
 
 
@@ -547,8 +547,7 @@ font-weight: bolder;
 
 
   .contact-container h1 {
-    font-size: 60px;
-
+    font-size: 50px;
     justify-content: center;
     text-align: center;
     margin-top: 50px;
@@ -593,6 +592,11 @@ font-weight: bolder;
     .contact-container h5 {
       font-size: 24px;
       text-align: left;
+    }
+
+    #contactinfo {
+      margin-left: 0rem;
+
     }
 
     #contactitem2 {
