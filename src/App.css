@@ -550,25 +550,23 @@ font-weight: bolder;
 
 
   .contact-container h1 {
-    font-size: 48px;
+    font-size: 44px;
     justify-content: center;
     text-align: center;
     margin-top: 50px;
+    font-weight: bolder;
 
   }
 
   .contact-container h5 {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     vertical-align: baseline;
+    font-family: poppins;
   }
 
 
 
-
-  svg {
-    color: #FF0065;
-  }
 
 
 
