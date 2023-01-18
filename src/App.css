@@ -35,8 +35,9 @@ padding: 20px;
 }
 
 .container h1 {
-  font-size: 50px;
+  font-size: 52px;
   text-align: left;
+  font-weight: bolder;
 }
 
 #bold {
