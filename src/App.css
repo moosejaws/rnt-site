@@ -20,6 +20,12 @@ button {
   color: #151515;
 }
 
+button:hover {
+  text-decoration: none;
+  background-color: #151515;
+  color: whitesmoke;
+}
+
 .container {
   height: 100%;
 margin: 0 auto;
@@ -57,6 +63,14 @@ padding: 20px;
   border: none;
   padding: 5px;
   border-radius: 35px 2px;
+}
+
+#email-me:hover {
+
+  background-color: #151515;
+  color: whitesmoke;
+  transition: .4s;
+
 }
 
 #spark {
@@ -460,6 +474,12 @@ font-weight: bolder;
   border: none;
   padding: 8px;
   border-radius: 35px 2px;
+}
+
+#banner-button:hover {
+  background-color: #151515;
+  color: whitesmoke;
+  transition: .4s;
 }
 
   @media (min-width: 800px) {
