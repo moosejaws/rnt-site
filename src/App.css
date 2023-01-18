@@ -597,7 +597,7 @@ font-weight: bolder;
   /*footer */
 
   #footer {
-    height: 12vh;
+    height: 14vh;
     background-color: #FFF500;
     justify-content: center;
     margin: auto;
@@ -614,6 +614,13 @@ font-weight: bolder;
 
   #footer h6 {
     margin-top: .5rem;
+  }
+
+  #footer svg {
+    color: #151515;
+    margin: 5px;
+    margin-top: .2rem;
+    padding: 0px;
   }
 
   @media (min-width: 800px) {
