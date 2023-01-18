@@ -358,6 +358,8 @@ margin-top: 40px;
 }
 
 #services h1{
+  font-size: 50px;
+
 margin-bottom: 2rem;
 font-weight: bolder;
 }
@@ -544,6 +546,8 @@ font-weight: bolder;
 
 
   .contact-container h1 {
+    font-size: 60px;
+
     justify-content: center;
     text-align: center;
     margin-top: 50px;
