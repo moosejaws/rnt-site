@@ -56,7 +56,7 @@ padding: 20px;
 #email-me {
   font-family: poppins;
   float: left;
-  margin: 10px;
+  margin: .5rem;
   margin-top: 20px;
   width: 160px;
   background-color: #FFF500;
@@ -360,7 +360,7 @@ font-weight: bolder;
 
 
 #services-block {
-  height: 2px;
+  height: 4px;
   background-color: #FF0065;
   border-radius: 30px;
   width: 96%;
