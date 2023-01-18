@@ -227,11 +227,12 @@ justify-content: center;
 
 
 #block {
-  height: 10px;
+  height: 4px;
+  width: 90%;
+
   background-color: #FFF500;
   margin-bottom: 16px;
   border-radius: 30px;
-  width: 300px;
   text-align: center;
   margin: auto;
   margin-bottom: 20px;
@@ -292,7 +293,7 @@ margin-top: 40px;
 }
 
 #block {
-  height: 10px;
+  height: 4px;
   background-color: #FFF500;
   margin-bottom: 16px;
   border-radius: 30px;
