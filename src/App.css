@@ -388,7 +388,7 @@ font-weight: bolder;
 #services h3 {
   font-size: 20px;
   font-weight: lighter;
-  width: 80%;
+  width: 96%;
   justify-content: center;
   margin: auto;
   margin-bottom: 1rem;
@@ -412,6 +412,7 @@ font-weight: bolder;
   #services h3 {
     font-size: 20px;
     text-align: left;
+
     margin-left: 2rem;
 
   }
