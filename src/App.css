@@ -524,6 +524,7 @@ font-weight: bolder;
     display: flex;
     line-height: 22px;
     margin: 10px;
+    margin-left: 4rem;
 
 
 
@@ -606,7 +607,6 @@ font-weight: bolder;
   /*footer */
 
   #footer {
-    height: 14vh;
     background-color: #FFF500;
     justify-content: center;
     margin: auto;
@@ -623,6 +623,7 @@ font-weight: bolder;
 
   #footer h6 {
     margin-top: .5rem;
+    padding: 2px;
   }
 
   #footer svg {
@@ -638,6 +639,7 @@ font-weight: bolder;
     }
 
     #footer h6 {
-      margin-top: .75rem;
+      margin-top: .5rem;
+      ;
     }
   }
