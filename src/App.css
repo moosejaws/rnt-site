@@ -54,6 +54,11 @@ padding: 20px;
   
 }
 
+span {
+  color: #FFF500;
+  font-weight: bold;
+}
+
 #email-me {
   font-family: poppins;
   float: left;
@@ -361,9 +366,8 @@ margin-top: 40px;
 
 #services h1{
   font-size: 50px;
-
-margin-bottom: 2rem;
-font-weight: bolder;
+  margin-bottom: 2rem;
+  font-weight: bolder;
 }
 
 
@@ -612,7 +616,7 @@ font-weight: bolder;
   /*footer */
 
   #footer {
-    height: 12vh;
+    height: 14vh;
     background-color: #FFF500;
     justify-content: center;
     margin: auto;

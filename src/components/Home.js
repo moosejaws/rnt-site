@@ -10,9 +10,10 @@ export default function Home() {
       <div class="griditem1">
       <h1>robyn n<br></br>thompson</h1>
               <p id="bold">Consultant / Coach / Producer</p>
-              <p>lorem Incididunt ut anim labore consectetur veniam non anim est labore nisi. In fugiat et qui pariatur reprehenderit culpa laborum.</p>
+              <p>I am the <span>spark</span> that can get your idea,
+              your goal, your pivot, your new project or new team organized and into action.</p>
         
-        <button id="email-me" >Email me</button>
+        <button id="email-me">Email me</button>
 
         </div>
         <div class="griditem2"> 
