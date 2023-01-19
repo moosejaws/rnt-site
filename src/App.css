@@ -26,6 +26,17 @@ button:hover {
   color: whitesmoke;
 }
 
+#home a {
+  text-decoration: none;
+  color: #151515;
+}
+
+#home a:hover {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+
 .container {
   height: 100%;
 margin: 0 auto;
@@ -41,14 +52,13 @@ padding: 20px;
 }
 
 #bold {
-  font-size: 18px;
+  font-size: 19px;
+  margin-bottom: .4rem;
   text-align: left;
 }
 
 .container p {
-  font-size: 20px;
   justify-content: center;
-  margin: auto;
   width: 96%;
   text-align: left;
   
@@ -63,9 +73,10 @@ span {
   font-family: poppins;
   float: left;
   margin: .5rem;
-  margin-top: 20px;
+  margin-top: .1rem;
   width: 160px;
   background-color: #FFF500;
+  color: #151515;
   border: none;
   padding: 5px;
   border-radius: 35px 2px;
@@ -81,7 +92,7 @@ span {
 
 #spark {
   height: 14rem;
-  margin-top: 10px;
+  margin-top: 1.5rem;
   justify-content: center;
 
 }
@@ -131,7 +142,7 @@ span {
     justify-content: center;
     padding-left: 10em;
     height: 400px;
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 
   #bold {
@@ -145,6 +156,7 @@ span {
   #email-me {
     font-family: poppins;
     float: left;
+    margin-top: 1.6rem;
     width: 160px;
     background-color: #FFF500;
     border: none;
@@ -249,7 +261,7 @@ justify-content: center;
 
 #robyn {
 text-align: center;
-height: 420px;
+height: 400px;
 justify-content: center;
 align-items: center;
 margin-top: 40px;
@@ -309,9 +321,10 @@ margin-top: 40px;
 
 #robyn {
   line-height: baseline;
-  margin-top: 0px;
-  height: 500px;
+  margin-top: 2rem;
+  height: 420px;
   text-align: left;
+  justify-content: center;
 }
 
 .about-container p {
@@ -537,7 +550,8 @@ margin-top: 40px;
 
   }
 
-  a {
+
+  #contactinfo a {
     display: flex;
     text-decoration: none;
     color: whitesmoke;

@@ -7,14 +7,14 @@ export default function Services() {
                 <div class="services-container">
                     <div>
                         <h1>services</h1>
-                        <p>Have an idea (or 3?) that need a game plan? I have helped multiple orgnanizations get their projects off the ground. I can help you get going or I can stay on board for ongoing support.</p>
+                        <p>Have an idea that needs a game plan? I have helped multiple orgnanizations get their projects off the ground. I can help you get going or I can stay on board for ongoing support.</p>
                     </div>
 
                     <div>
                         <h2>Consulting & Facilitating</h2>
                         <div id="services-block"></div>
                         <h3>Small business, organizations & nonprofits, personal projects</h3>
-                        <p>I am a connector and a generator. I have launched multiple food delivery programs, birthed & nurtured revenue generating projects., taken elements & visions existing in our minds to create a fully functioning arms of an organization. If you have been needing to get something going, I will make it happen.</p>
+                        <p>I am a connector and a generator. I have launched multiple food delivery programs, birthed & nurtured revenue generating projects, taken elements & visions existing in our minds to create a fully functioning arms of an organization. If you have been needing to get something going, I will make it happen.</p>
                     </div>
 
                     <h2>Producing</h2>
@@ -27,7 +27,7 @@ export default function Services() {
                         </div>
                         <div class="sc-item">
                         <h3>Events</h3>
-                        <p>I am a connector and a generator. I have launched multiple food delivery programs, birthed & nurtured revenue generating projects., taken elements & visions existing in our minds to create a fully functioning arms of an organization. If you have been needing to get something going, I will make it happen.</p>
+                        <p>I have produced & coordinated speciality food experiences, trainings, community building.</p>
                         </div>
                     </div>
 
