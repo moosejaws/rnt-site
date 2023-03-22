@@ -6,7 +6,7 @@ export default function About() {
                 <div id="about">
                     <div class="about-container">
                         <div class="griditem3">
-                            <img id="robyn" src={require('../images/robyn.png')} />
+                            <img id="robyn" src={require('../images/robyn2.jpg')} />
                         </div>
                         <div class="griditem4">
                             <h1>about</h1>

@@ -32,6 +32,20 @@ export default function Services() {
                     </div>
 
                     <div>
+                        <h2>Graphic Design</h2>
+                        <div id="services-block"></div>
+                        <h3>Branding, Print & Digital Design</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+
+                    <div>
+                        <h2>Web Development</h2>
+                        <div id="services-block"></div>
+                        <h3>Branding, Print & Digital Design</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+
+                    <div>
                         <h2>Personalized Coaching</h2>
                         <div id="services-block"></div>
                         <h3>Transformation is 100% possible</h3>

@@ -39,10 +39,10 @@ button:hover {
 
 .container {
   height: 100%;
-margin: 0 auto;
-display: grid;
-justify-content: center;
-padding: 20px;
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  padding: 20px;
 }
 
 .container h1 {
@@ -59,7 +59,7 @@ padding: 20px;
 
 .container p {
   justify-content: center;
-  width: 96%;
+  width: 90%;
   text-align: left;
   
 }
@@ -248,9 +248,7 @@ justify-content: center;
 #block {
   height: 4px;
   width: 90%;
-
-  background-color: #FFF500;
-  margin-bottom: 16px;
+  background-color: #FF0065;
   border-radius: 30px;
   text-align: center;
   margin: auto;
@@ -265,13 +263,15 @@ height: 400px;
 justify-content: center;
 align-items: center;
 margin-top: 40px;
+border-radius: 12px;
 }
 
 .about-container h1 {
   font-size: 50px;
   font-weight: bolder;
   color: whitesmoke;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
+  margin-top: -.75rem;
 
 }
 
@@ -313,7 +313,7 @@ margin-top: 40px;
 
 #block {
   height: 4px;
-  background-color: #FFF500;
+  background-color: #FF0065;
   margin-bottom: 16px;
   border-radius: 30px;
 
@@ -325,6 +325,8 @@ margin-top: 40px;
   height: 420px;
   text-align: left;
   justify-content: center;
+  border-radius: 12px;
+
 }
 
 .about-container p {
